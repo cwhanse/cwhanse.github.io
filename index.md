@@ -16,7 +16,7 @@ Members of the solar community are invited to join the [Stakeholder Committee](/
 Our project will build a performance modeling and analytics platform based on open-source, extensible,
 community-maintained code. The project will benefit to the solar community through two primary outcomes:
 -  Extending [pvlib-python](https://github.com/pvlib/pvlib-python) to easily model PV systems with greater detail.
--  Deliver modeling capabilities through a web-based dashboard and an API.
+-  Delivering modeling capabilities through a web-based dashboard and an API.
 We work directly with industry stakeholders to validate user stories, derive use cases and analytic requirements,
 and test the platform.
 
